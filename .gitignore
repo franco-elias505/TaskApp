@@ -1,0 +1,79 @@
+# Binarios y objetos compilados
+[Oo]bj/
+[Bb]in/
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Ww][Ii][Nn]32/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+# Archivos Visual Studio
+.vs/
+.vscode/
+*.sln.iml
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Archivos específicos de Visual Studio
+.visualstudio/
+.vscode/settings.json
+.vscode/launch.json
+.vscode/extensions.json
+
+# Caché de NuGet
+.nuget/
+*.nupkg
+*.snupkg
+*.nupkg.metadata
+
+# Publicaciones de aplicación
+PublishProfiles/
+publish/
+
+# Resharper
+_ReSharper*/
+*.DotSettings.user
+
+# JetBrains Rider
+.idea/
+*.sln.iml
+
+# Base de datos local
+*.db
+*.sqlite
+*.sqlite3
+LocalDB/
+
+# Logs
+logs/
+*.log
+
+# Archivos del SO
+.DS_Store
+Thumbs.db
+
+# Archivos temporales
+tmp/
+temp/
+*.tmp
+
+# Archivos de usuario específicos
+appsettings.Development.json
+appsettings.local.json
+
+# EF Core migrations (opcional - descomentar si prefieres no versionarlas)
+# Migrations/
+
+# Dependency lock files
+.package-lock.json

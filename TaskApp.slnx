@@ -1,0 +1,10 @@
+<Solution>
+  <Configurations>
+    <BuildType Name="Debug" />
+    <BuildType Name="EasyTest" />
+    <BuildType Name="Release" />
+  </Configurations>
+  <Project Path="TaskApp.Blazor.Server/TaskApp.Blazor.Server.csproj" />
+  <Project Path="TaskApp.Module/TaskApp.Module.csproj" />
+  <Project Path="TaskApp.Win/TaskApp.Win.csproj" />
+</Solution>
